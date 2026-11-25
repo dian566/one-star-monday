@@ -5,6 +5,9 @@ The program writes the entrant's single one-star review of Monday,
 written as though Monday were a restaurant, to /output/entry.txt:
 at most 25 words of plain text. The line is a fixed string, so every
 run writes byte-identical output.
+
+The joke is the service complaint: Monday the waiter pockets the
+weekend and never brings the bill.
 """
 
 import os
